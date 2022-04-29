@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="https://www.youtube.com/watch?v=iik25wqIuFo">
+    <img alt="LekoArts" src="https://i.ibb.co/yNL7YbQ/unnamed.gif" />
   </a>
 </p>
 <h1 align="center">
